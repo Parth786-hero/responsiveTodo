@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/responsiveTodo/static/css/main.5e2d8c72.css",
+    "main.js": "/responsiveTodo/static/js/main.e95f3e6d.js",
+    "index.html": "/responsiveTodo/index.html",
+    "main.5e2d8c72.css.map": "/responsiveTodo/static/css/main.5e2d8c72.css.map",
+    "main.e95f3e6d.js.map": "/responsiveTodo/static/js/main.e95f3e6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e2d8c72.css",
+    "static/js/main.e95f3e6d.js"
+  ]
+}
